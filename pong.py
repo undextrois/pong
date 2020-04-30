@@ -114,16 +114,6 @@ def game():
 
 ####
 
-#canvas.update()
-#draw_paddle(90,50,80,10)
-#draw_ball(100,55,10)
-#fps = 50
-#set_interval(game, 1000 / fps)
-#game()
-#canvas.pack()
-#window.mainloop()
-#https://stackoverflow.com/questions/2697039/python-equivalent-of-setinterval
-
 if __name__ == '__main__': 
     #root = tk.Tk()
     #root.title('Hello, Pong!') 
